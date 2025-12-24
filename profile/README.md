@@ -1,6 +1,6 @@
 # Khipro Keyboard
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/KhiproKeyboard/khipro-m17n/blob/main/LICENSE)
+
 
 **Khipro** is a shift-free, half-phonetic Bengali keyboard layout designed to make Bengali typing faster, smarter, and more comfortable. It removes the need to press the Shift key at all, and keeps all typing within the central portion of the QWERTY keyboard resulting in a more fluid typing experience, especially for beginners and fast typists.
 
